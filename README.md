@@ -79,7 +79,92 @@ I'm committed to continuous professional development and expanding my software e
 - Advanced Programming Concepts
 
 ---
+## 🚀 Featured Projects
 
+I enjoy building practical software solutions that solve real-world business problems. Here are some of my key projects demonstrating my experience in full-stack development, backend engineering, database management and system integration.
+
+### 🍔 01. Mana Food Franchise
+**Full-Stack Food Ordering & Franchise Management Platform**
+
+A food ordering platform designed to simplify customer ordering and support franchise operations.
+
+**Highlights**
+- Online food catalogue and product management.
+- Shopping cart, checkout and order tracking.
+- Location-based pricing.
+- PayFast payment integration.
+- Full payment and 40% deposit payment workflows.
+- Administrative dashboard.
+- Customer, product and order management.
+- Responsive user interface.
+
+**Built With:** JavaScript · Node.js · Express.js · MySQL · HTML5 · CSS3 · REST APIs · PayFast
+![Mana Food Franchise](screenshots/)
+**Project:** 
+
+---
+
+### 🥪 02. Feigels E-Commerce & Business Management System
+**Full-Stack E-Commerce & Business Administration Platform**
+
+A business-focused application supporting online orders and internal business management.
+
+**Highlights**
+- Product catalogue and customer management.
+- Shopping cart and order processing.
+- Inventory and supplier management.
+- JWT authentication and role-based access control.
+- REST API development.
+- Invoice generation and email notifications.
+- WhatsApp integration.
+- Sales and revenue analytics.
+- Real-time dashboard updates.
+- Background job processing and Redis caching.
+
+**Built With:** JavaScript · Node.js · Express.js · MySQL · Redis · BullMQ · Socket.IO · JWT · Docker
+![Mana Food Franchise](screenshots/)
+**Project:** .
+
+---
+
+### 🌐 03. Shaun Dev – Personal Developer Portfolio
+**Responsive Developer Portfolio Website**
+
+A personal portfolio presenting my professional profile, technical skills, projects and software development journey.
+
+**Highlights**
+- Responsive portfolio interface.
+- Professional profile and skills presentation.
+- Project showcase.
+- Validated contact form.
+- MySQL contact message management.
+- Email functionality.
+- Mobile-friendly navigation.
+
+**Built With:** HTML5 · CSS3 · JavaScript · MySQL · Git · GitHub
+
+**Live Website:** [Visit Shaun Dev Portfolio](https://shaun-dev-profile.onrender.com/)
+
+**Source Code:** .
+
+---
+
+### 🤖 04. WhatsApp Business Chatbot & Payment Integration
+**Business Process Automation & System Integration**
+
+A customer ordering and payment solution developed during Work Integrated Learning at YCCI.
+
+**Highlights**
+- WhatsApp chatbot development.
+- Customer interaction automation.
+- REST API integration.
+- Payment gateway integration.
+- Webhook-based communication.
+- Automated ordering workflows.
+
+**Built With:** JavaScript · REST APIs · WhatsApp Business API · Webhooks · Payment Gateway Integration
+![Mana Food Franchise](screenshots/)
+---
 ## 🎯 Professional Focus
 
 - Full-Stack Software Development
